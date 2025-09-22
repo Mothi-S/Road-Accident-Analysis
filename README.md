@@ -7,7 +7,7 @@ The goal is to identify **key patterns, high-risk conditions, and trends** contr
 ---
 
 ## 📸 Screenshots
-![Streamlit UI Screenshot](Road Accident Dashboard.png)
+![Streamlit UI Screenshot](Road_Accident_Dashboard.png)
 
 ---
 
